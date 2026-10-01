@@ -1,5 +1,5 @@
 import java.util.*;
-public class reversehollowtriangle
+public class reversehollowpyramid
 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
